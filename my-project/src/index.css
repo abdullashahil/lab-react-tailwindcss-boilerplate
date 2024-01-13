@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.secondbox{
+  margin-left: 120px;
+}
+
+.alert-box{
+  width: 75rem;
+}
+
+.thirdbox{
+  width: 22rem;
+
+}
+
+footer{
+  margin-top: 21.7rem;
+}
